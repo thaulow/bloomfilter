@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-__AUTHOR__ = "Thomas Thaulow Stöcklin (583463)"
+__AUTHOR__ = "Thomas Thaulow Stöcklin"
 __EMAIL__ = "thomasts@stud.ntnu.no"
 
 def ParseFile(FileName):                                            # define parsing file contents and add to variable function
